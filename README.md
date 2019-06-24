@@ -1,4 +1,4 @@
-# Discord-Nickname-Moderation
+# Discord Nickname Moderation
 A Discord bot to allow for nickname filtering, and to lock users' nicknames with a role.
 
 # Setup
